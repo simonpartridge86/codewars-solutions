@@ -15,3 +15,5 @@ Follow me on Codewars [here](https://www.codewars.com/users/simonpartridge86).
 - [5 kyu kata](https://github.com/simonpartridge86/codewars-solutions/tree/main/5kyu)
 
 - [6 kyu kata](https://github.com/simonpartridge86/codewars-solutions/tree/main/6kyu)
+
+- [7 kyu kata](https://github.com/simonpartridge86/codewars-solutions/tree/main/7kyu)
